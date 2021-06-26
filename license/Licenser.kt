@@ -1,14 +1,3 @@
-/*
- * DevEventAndroid © 2021 용감한 친구들. all rights reserved.
- * DevEventAndroid license is under the MIT.
- *
- * [Licenser.kt] created by Ji Sungbin on 21. 6. 27. 오전 3:12.
- *
- * Please see: https://github.com/brave-people/Dev-Event-Android/blob/master/LICENSE.
- */
-
-package team.bravepeople.devevent.ui.license
-
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
