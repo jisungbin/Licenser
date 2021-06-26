@@ -3,7 +3,7 @@ jetpack compose license display lazy column ui
 
 ---
 
-## Example
+# Example
 ```kotlin
 LazyColumn(
     modifier = Modifier
