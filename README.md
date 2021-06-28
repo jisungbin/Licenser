@@ -43,4 +43,4 @@ LazyColumn(
 ```
 
 # Preview
-![preview](https://github.com/brave-people/Dev-Event-Android/raw/master/images/info.png?raw=true)
+<img src="https://github.com/brave-people/Dev-Event-Android/raw/master/images/info.png?raw=true" width="33%"/>
