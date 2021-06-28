@@ -41,3 +41,6 @@ LazyColumn(
     )
 }
 ```
+
+# Preview
+![preview](https://github.com/brave-people/Dev-Event-Android/raw/master/images/info.png?raw=true)
